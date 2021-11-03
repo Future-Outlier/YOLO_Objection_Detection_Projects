@@ -1,1 +1,1 @@
-# YOLO_Skilled-_Projects
+# YOLO_Skilled_Projects
