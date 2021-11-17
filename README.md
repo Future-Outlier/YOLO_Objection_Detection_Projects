@@ -1,4 +1,4 @@
-# YOLO_Skilled_Projects
+# YOLO_Objection_Detection_Projects
 
 
 
