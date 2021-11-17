@@ -12,6 +12,7 @@
 
 ((3)) Use OpenCV to take selfie to get my selfie data 
 
+
 ![image](https://user-images.githubusercontent.com/76461262/142205490-a8cfc511-2bf9-4ac9-bc7d-05892d03d856.png)
 
 
