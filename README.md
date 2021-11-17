@@ -4,13 +4,13 @@
 
 1.YOLO_Drowsiness_Detection
 
-(1) Things I do in this project 
+## (1) Things I do in this project 
 
-((1)) Read YOLOv5 and Pytorch Hub Documentation
+### ((1)) Read YOLOv5 and Pytorch Hub Documentation
 
-((2)) Use LabeImg (a github repository) to label image manually
+### ((2)) Use LabeImg (a github repository) to label image manually
 
-((3)) Use OpenCV to take selfie to get my selfie data 
+### ((3)) Use OpenCV to take selfie to get my selfie data 
 
 
 ![image](https://user-images.githubusercontent.com/76461262/142205490-a8cfc511-2bf9-4ac9-bc7d-05892d03d856.png)
