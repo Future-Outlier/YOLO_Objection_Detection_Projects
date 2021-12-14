@@ -6,11 +6,11 @@
 
 ## Things I do in this project 
 
-### 1. Read YOLOv5 and Pytorch Hub Documentation
+### • Detected objects using Yolov5 model
 
-### 2. Use LabeImg (a github repository) to label image manually
+### • Labeled selfies about being awake or drowsy using labelImg repository
 
-### 3. Use OpenCV to take selfie to get my selfie data 
+### • Built custom YOLO model by modifying a yml file
 
 ## I follow the man's tutorial and train my own YOLOv5 drowsiness detection model 
 
