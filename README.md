@@ -1,10 +1,6 @@
-# YOLO_Objection_Detection_Projects
-
-
-
 # YOLO_Drowsiness_Detection
-
-## Things I do in this project 
+## Project Description 
+Detect my selfie using Yolov5
 
 ### • Detected objects using Yolov5 model
 
